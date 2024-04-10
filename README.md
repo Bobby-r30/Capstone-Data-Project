@@ -19,4 +19,4 @@ Make sure to download the heart_data_project.csv file and place it in the same d
 Execute the notebook cells sequentially to reproduce the project workflow.
 
 Note:
-This capstone project serves as an exercise to practice experimenting with data and building a predictive model for CHD. Feel free to explore the notebook, modify the code, and experiment with different analyses and models.
+This capstone project serves as an exercise to practice experimenting with data and building a predictive model for CHD. Feel free to explore the notebook, modify the code, and experiment with different analysis and models.
