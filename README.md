@@ -20,3 +20,11 @@ Execute the notebook cells sequentially to reproduce the project workflow.
 
 Note:
 This capstone project serves as an exercise to practice experimenting with data and building a predictive model for CHD. Feel free to explore the notebook, modify the code, and experiment with different analysis and models.
+
+References:
+This dataset was made by fedesoriano from using various other datasets which can be found below.
+
+Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+Statlog (Heart). UCI Machine Learning Repository. https://doi.org/10.24432/C57303.
+fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
+
