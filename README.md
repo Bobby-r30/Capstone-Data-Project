@@ -25,6 +25,8 @@ References:
 This dataset was made by fedesoriano from using various other datasets which can be found below.
 
 Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+
 Statlog (Heart). UCI Machine Learning Repository. https://doi.org/10.24432/C57303.
+
 fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
 
